@@ -1,0 +1,14 @@
+C:\Users\Bazha\OneDrive\Рабочий стол\Projects\Finance\Finance\bin\Release\DBFinance.mdf
+C:\Users\Bazha\OneDrive\Рабочий стол\Projects\Finance\Finance\bin\Release\DBFinance_log.ldf
+C:\Users\Bazha\OneDrive\Рабочий стол\Projects\Finance\Finance\bin\Release\Finance.exe.config
+C:\Users\Bazha\OneDrive\Рабочий стол\Projects\Finance\Finance\bin\Release\Finance.exe
+C:\Users\Bazha\OneDrive\Рабочий стол\Projects\Finance\Finance\bin\Release\Finance.pdb
+C:\Users\Bazha\OneDrive\Рабочий стол\Projects\Finance\Finance\obj\Release\Finance.csproj.AssemblyReference.cache
+C:\Users\Bazha\OneDrive\Рабочий стол\Projects\Finance\Finance\obj\Release\Finance.MainForm.resources
+C:\Users\Bazha\OneDrive\Рабочий стол\Projects\Finance\Finance\obj\Release\Finance.FuturesEdit.resources
+C:\Users\Bazha\OneDrive\Рабочий стол\Projects\Finance\Finance\obj\Release\Finance.Properties.Resources.resources
+C:\Users\Bazha\OneDrive\Рабочий стол\Projects\Finance\Finance\obj\Release\Finance.StartDeposit.resources
+C:\Users\Bazha\OneDrive\Рабочий стол\Projects\Finance\Finance\obj\Release\Finance.csproj.GenerateResource.cache
+C:\Users\Bazha\OneDrive\Рабочий стол\Projects\Finance\Finance\obj\Release\Finance.csproj.CoreCompileInputs.cache
+C:\Users\Bazha\OneDrive\Рабочий стол\Projects\Finance\Finance\obj\Release\Finance.exe
+C:\Users\Bazha\OneDrive\Рабочий стол\Projects\Finance\Finance\obj\Release\Finance.pdb
